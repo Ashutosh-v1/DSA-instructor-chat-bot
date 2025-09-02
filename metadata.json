@@ -1,0 +1,5 @@
+{
+  "name": "DSA Instructor Chat",
+  "description": "An AI-powered chat application that acts as a Data Structures and Algorithms instructor. It provides helpful explanations for DSA-related queries and responds rudely to off-topic questions.",
+  "requestFramePermissions": []
+}
